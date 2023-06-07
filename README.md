@@ -113,8 +113,7 @@ Blackboard Value As Vector input.
 
 
 ### Game Mode:
-![244051776-eb54159c-074e-4c0b-b987-164275fdea43](https://github.com/Aashima02/AI-Chasing/assets/93427086/ca34b75b-f144-445a-a689-8475ce1e0756)
-
+![image](https://github.com/VaishnaviMariappan/AI_chasing_Player/assets/94169913/85b7e16e-12ff-4470-a5e8-fbee2432e5a0)
 ## RESULT:
 
 Thus, the AI concept to the actor for chasing when AI sees the player.
